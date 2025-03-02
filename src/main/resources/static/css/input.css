@@ -1,0 +1,24 @@
+/*  ./src/main/resources/static/css */ 
+/* above is location of this file */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* how to include tailwind css in our project */
+
+
+
+/* 1.> run this command everytime to run tailwind css */
+
+/* npx tailwindcss -i src
+/main/resources/static/css/input.css -o src/main/resources/static/css/ou
+tput.css --watch */
+
+
+
+/* 2.> include output.css in our html file in head tag */
+
+
+/* 3.> If you want flowbite include css and js using cdn */
